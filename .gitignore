@@ -1,0 +1,5 @@
+renardeau
+.vscode/
+dictionaries/*.txt
+*.o
+*.zip
